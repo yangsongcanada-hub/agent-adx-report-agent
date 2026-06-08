@@ -32,8 +32,8 @@ The LLM orchestrates these tools based on your conversation. A system prompt enf
 ### Installation
 
 ```bash
-git clone git@github.com:yangsongcanada-hub/agent-adx-report-agent.git
-cd agent-adx-report-agent
+git clone git@github-personal:yangsongcanada-hub/adx-report-agent.git
+cd adx-report-agent
 
 uv sync
 cp .env.example .env
