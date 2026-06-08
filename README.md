@@ -114,4 +114,4 @@ Final reply: Report for RS Account (2026-06-07) prepared and sent to song@exampl
 
 ## License
 
-MIT (or specify your license here)
+MIT
